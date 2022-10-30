@@ -1,0 +1,19 @@
+:root {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+html, body {
+    background-color: rgb(158, 75, 3);
+}
+
+main {
+    width: 300px;
+    height: 594px;
+    background-color: #D8D7C5;
+}
+
+h1, h3 {
+    margin: 0;
+}
+
